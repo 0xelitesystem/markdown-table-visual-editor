@@ -1,8 +1,8 @@
-# Markdown Table Generator
+# Markdown Table Visual Editor
 
 Build a table visually and copy clean GitHub Flavored Markdown.
 
-**Live demo:** https://0xelitesystem.github.io/markdown-table-generator/
+**Live demo:** https://0xelitesystem.github.io/markdown-table-visual-editor/
 
 ## Use
 
@@ -32,8 +32,8 @@ Everything runs in your browser. Your table never leaves your machine. There is 
 ## Run locally
 
 ```
-git clone https://github.com/0xelitesystem/markdown-table-generator.git
-cd markdown-table-generator
+git clone https://github.com/0xelitesystem/markdown-table-visual-editor.git
+cd markdown-table-visual-editor
 ```
 
 Then open `index.html` in any browser. That is all it takes. If you prefer to serve it over http:
