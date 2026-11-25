@@ -58,5 +58,5 @@ MIT. See [LICENSE](LICENSE).
 
 ## Related
 
-- https://github.com/0xelitesystem/jwt-inspector
+- https://github.com/0xelitesystem/jwt-verify-in-browser
 - https://github.com/0xelitesystem/eeat-signals-reference
